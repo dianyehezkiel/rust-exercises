@@ -1,0 +1,8 @@
+# target dir
+**/target
+
+# .idea
+**/.idea
+
+# .vscode
+**/.vscode
